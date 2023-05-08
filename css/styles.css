@@ -120,10 +120,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 
 .logo{
-    width: 10%;
-    max-width: 1000px; /* This is optional, you can set max-width to any value you prefer */
+    width: 60%;
+    max-width: 75px; /* This is optional, you can set max-width to any value you prefer */
     margin: 0 auto;
-    height: 10%;
+    height: 60%;
 }
 
 h1, .h1 {
